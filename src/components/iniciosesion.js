@@ -5,3 +5,4 @@ export const iniciosesion = () => {
     <div>iniciosesion</div>
   )
 }
+export default iniciosesion

@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const listagastos = () => {
+ const listagastos = () => {
   return (
     <div>listagastos</div>
   )
 }
+
+export default listagastos

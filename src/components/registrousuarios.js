@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const registrousuarios = () => {
+ const registrousuarios = () => {
   return (
     <div>registrousuarios</div>
   )
 }
+
+export default registrousuarios

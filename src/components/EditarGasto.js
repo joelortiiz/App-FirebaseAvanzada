@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const EditarGasto = () => {
+ const EditarGasto = () => {
   return (
     <div>EditarGasto</div>
   )
 }
+
+export default EditarGasto

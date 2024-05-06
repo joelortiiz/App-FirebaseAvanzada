@@ -1,7 +1,8 @@
 import React from 'react'
 
-export const gastosporcategoria = () => {
+ const gastosporcategoria = () => {
   return (
     <div>gastosporcategoria</div>
   )
 }
+export default gastosporcategoria
